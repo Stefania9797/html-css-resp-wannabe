@@ -87,7 +87,7 @@ img {
   #why .row>.third{
     float: none;
     margin: auto;
-    width: 90%;
+    width: 95%;
   }
  .img{
    margin: 40px;
@@ -97,7 +97,15 @@ img {
  }
  h1 , h3 , img{
    padding: 10px;
+ }
+ .right{
+   padding-bottom: 20px;
+ }
+ h1{
    font-size: 40px;
+ }
+ h3{
+   font-size: 30px;
  }
 #why .row>.first, #why .row>.second, #why .row>.third {
   margin-top: 20px;
