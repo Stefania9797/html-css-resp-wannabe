@@ -88,15 +88,13 @@ img {
     margin: auto;
     width: 95%;
   }
- .img{
-   margin: 40px;
- }
  .row{
    margin-top: 0;
    width: 100%;
  }
  img{
    height: 150px;
+   margin: 30px;
  }
 hr{
   background-color: black;
