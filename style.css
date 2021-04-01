@@ -75,7 +75,6 @@ img {
   *{
     box-sizing: border-box;
     margin: 0;
-    font-size: 27px;
   }
   #lezioni .row>.left,
   #lezioni .row>.right,
@@ -94,22 +93,11 @@ img {
  }
  .row{
    margin-top: 0;
+   width: 100%;
  }
- h1 , h3 , img{
-   padding: 10px;
+ img{
+   height: 150px;
  }
- .right{
-   padding-bottom: 20px;
- }
- h1{
-   font-size: 40px;
- }
- h3{
-   font-size: 35px;
- }
-#why .row>.first, #why .row>.second, #why .row>.third {
-  margin-top: 20px;
-}
 hr{
   background-color: black;
   height: 1px;
